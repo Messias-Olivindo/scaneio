@@ -1,6 +1,6 @@
 # Scaneio 🔎
 
-Aplicação Web para relembrar assuntos de prvas e nunca se esquecer dos assuntos que você vê durante o ensino médio, faculdade, concurso e muitos outros.
+Aplicação Web para relembrar assuntos de provas e nunca se esquecer dos assuntos que você vê durante o ensino médio, faculdade, concurso e muitos outros.
 
 ## Estrutura do projeto
 
